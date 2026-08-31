@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "6c8004b12cf237b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ed7eafddb6018ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88ecce9f1dff34cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/프로젝트 0 - 공통/세계관/26인의 관찰자.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "26인의 관찰자"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dcca91706262fa0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea6ce8cf1eaf405f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c5d67a13ed5b0c5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "0abca4c17f091284",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "6a99f95066f633d2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6444569dbe1af1f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "3076e242cccf2a79",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ff598b3f5538279",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/프로젝트 0 - 공통/세계관/26인의 관찰자.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "백링크"
+            }
+          },
+          {
+            "id": "f793446af0be2a2e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/프로젝트 0 - 공통/세계관/26인의 관찰자.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "나가는 링크"
+            }
+          },
+          {
+            "id": "d801e579f4676f71",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "18661eda71bc3d5b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "모든 속성"
+            }
+          },
+          {
+            "id": "b483018f9a2d6c9b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/프로젝트 0 - 공통/세계관/26인의 관찰자.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "개요"
+            }
+          },
+          {
+            "id": "a79a7a9044bc35f6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "88ecce9f1dff34cc",
+  "lastOpenFiles": [
+    "content/프로젝트 0 - 공통/세계관/25 지성체.md",
+    "content/프로젝트 0 - 공통/세계관/26인의 관찰자.md",
+    "content/프로젝트 0 - 공통/등장인물/H (프로젝트 0).md",
+    "content/프로젝트 18 - 경계의 틈에 끼어버린 너와 나/등장인물/M, 미야 (프로젝트 18).md",
+    "content/프로젝트 0 - 공통/등장인물/C.md",
+    "content/프로젝트 2 - Time Travelers/등장인물/혜울 (프로젝트 2).md",
+    "content/프로젝트 2 - Time Travelers/등장인물/하울 (프로젝트 2).md",
+    "content/프로젝트 18 - 경계의 틈에 끼어버린 너와 나/등장인물/해시.md",
+    "content/프로젝트 18 - 경계의 틈에 끼어버린 너와 나/등장인물/진희.md",
+    "content/프로젝트 18 - 경계의 틈에 끼어버린 너와 나/세계관/메이드니멀.md",
+    "content/프로젝트 18 - 경계의 틈에 끼어버린 너와 나/등장인물/묘린.md"
+  ]
+}
