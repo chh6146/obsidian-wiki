@@ -257,17 +257,17 @@ plugins:
       position: afterBody
       priority: 50
       display: all
-  - source: github:quartz-community/recent-notes
-    enabled: true
-    options:
-      title: "최근 수정된 글"
-      limit: 5
-      showTags: false
-      hideFolderPages: true
-    layout:
-      position: beforeBody
-      priority: 10
-      condition: is-index # 메인 인덱스 페이지에서만 출력되도록 조건 설정
+  # - source: github:quartz-community/recent-notes
+  #   enabled: true
+  #   options:
+  #     title: "최근 수정된 글"
+  #     limit: 5
+  #     showTags: false
+  #     hideFolderPages: true
+  #   layout:
+  #     position: beforeBody
+  #     priority: 10
+  #     condition: is-index # 메인 인덱스 페이지에서만 출력되도록 조건 설정
 layout:
   groups:
     toolbar:
