@@ -6,7 +6,7 @@ configuration:
   enablePopovers: true
   analytics:
     provider: plausible
-  locale: en-US
+  locale: ko-KR
   baseUrl: wiki.teamhc.net
   ignorePatterns:
     - private
@@ -16,8 +16,8 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Noto Sans KR
-      body: Noto Sans KR
+      header: "Noto Sans KR"
+      body: "Noto Sans KR"
       code: IBM Plex Mono
     colors:
       lightMode:
