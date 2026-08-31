@@ -8,6 +8,7 @@ configuration:
     provider: plausible
   locale: en-US
   baseUrl: wiki.teamhc.net
+  folderDefaultState: open
   ignorePatterns:
     - private
     - templates
