@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/프로젝트 18 - 경계의 틈에 끼어버린 너와 나/등장인물/N (프로젝트 18).md",
+                "file": "content/프로젝트 18 - 경계의 틈에 끼어버린 너와 나/세계관/쓰레채널.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "N (프로젝트 18)"
+              "title": "쓰레채널"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "쓰레채널",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -79,7 +79,8 @@
               "title": "북마크"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -199,10 +200,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eeae491073653f6f",
+  "active": "82da32580c128a6a",
   "lastOpenFiles": [
+    "content/프로젝트 18 - 경계의 틈에 끼어버린 너와 나/등장인물/N (프로젝트 18).md",
     "content/프로젝트 18 - 경계의 틈에 끼어버린 너와 나/등장인물/R (프로젝트 18).md",
-    "content/프로젝트 18 - 경계의 틈에 끼어버린 너와 나/세계관/쓰레채널 (ThreadChannel).md",
+    "content/프로젝트 18 - 경계의 틈에 끼어버린 너와 나/세계관/쓰레채널.md",
     "content/프로젝트 18 - 경계의 틈에 끼어버린 너와 나/세계관/의문의 잔해.md",
     "content/프로젝트 18 - 경계의 틈에 끼어버린 너와 나/세계관/세계선.md",
     "content/프로젝트 18 - 경계의 틈에 끼어버린 너와 나/세계관/메이드니멀.md",
@@ -223,7 +225,6 @@
     "content/프로젝트 18 - 경계의 틈에 끼어버린 너와 나/등장인물/묘린.md",
     "content/프로젝트 18 - 경계의 틈에 끼어버린 너와 나/등장인물/유영.md",
     "content/프로젝트 18 - 경계의 틈에 끼어버린 너와 나/등장인물/진희.md",
-    "content/프로젝트 18 - 경계의 틈에 끼어버린 너와 나/등장인물/N (프로젝트 18).md",
     "content/프로젝트 18 - 경계의 틈에 끼어버린 너와 나/시나리오/챕터 3.md",
     "content/프로젝트 18 - 경계의 틈에 끼어버린 너와 나/시나리오/챕터 4.md",
     "content/프로젝트 18 - 경계의 틈에 끼어버린 너와 나/시나리오/프롤로그.md",
