@@ -131,6 +131,9 @@ plugins:
     enabled: true
   - source: "@quartz-community/tag-page"
     enabled: true
+    layout:
+      position: right  # 'left' 또는 'right' 사이드바 선택
+      priority: 30     # 사이드바 내에서 배치되는 순서 (숫자가 낮을수록 상단)
   - source: "@quartz-community/explorer"
     enabled: true
     options:
