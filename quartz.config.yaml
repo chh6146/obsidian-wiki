@@ -264,7 +264,7 @@ plugins:
   - source: github:quartz-community/tag-list
     enabled: true
     layout:
-      position: beforeBody
+      position: afterBody
       priority: 30
 layout:
   groups:
