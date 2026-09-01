@@ -31,9 +31,9 @@ npx quartz build --serve
 
 Your site is now running at `http://localhost:8080`. From here:
 
-- **[[authoring-content|Write content]]** in the `content/` folder
-- **[[installation|Push to GitHub]]** with `npx quartz sync`
-- **[[hosting|Deploy]]** to GitHub Pages, Cloudflare, Netlify, or Vercel
+- [[authoring-content|Write content]] in the `content/` folder
+- [[installation|Push to GitHub]] with `npx quartz sync`
+- [[hosting|Deploy]] to GitHub Pages, Cloudflare, Netlify, or Vercel
 
 For the full walkthrough, see the [[getting-started/index|Getting Started]] guide.
 

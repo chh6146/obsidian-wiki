@@ -156,6 +156,6 @@ npx quartz sync
 
 ## Next Steps
 
-- **[[authoring-content|Authoring Content]]** — Write and organize your notes
-- **[[hosting|Hosting]]** — Deploy your site to GitHub Pages, Cloudflare, Netlify, or Vercel
-- **[[configuration|Configuration]]** — Customize your site's appearance and behavior
+- [[authoring-content|Authoring Content]] — Write and organize your notes
+- [[hosting|Hosting]] — Deploy your site to GitHub Pages, Cloudflare, Netlify, or Vercel
+- [[configuration|Configuration]] — Customize your site's appearance and behavior
