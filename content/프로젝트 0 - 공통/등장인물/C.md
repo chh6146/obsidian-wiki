@@ -1,3 +1,4 @@
+#등장인물 
 > [!info] **C (The Deleted Intelligence)**
 > > [!abstract] 
 > > **절대적 평화와 평등을 외치다 의문의 사고로 파멸한 영구 결손 지성체.**
