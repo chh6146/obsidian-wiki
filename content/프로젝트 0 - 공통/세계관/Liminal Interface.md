@@ -8,7 +8,7 @@ tags:
   - 프로젝트4
   - 프로젝트6
   - 프로젝트18
-  - 물건
+  - 오브젝트
 ---
 > [!info] **Liminal Interface**
 > > [!abstract] 
