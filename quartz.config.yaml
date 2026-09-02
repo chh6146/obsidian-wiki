@@ -262,11 +262,6 @@ plugins:
       position: afterBody
       priority: 50
       display: all
-  - source: github:quartz-community/tag-list
-    enabled: true
-    layout:
-      position: afterBody
-      priority: 30
 layout:
   groups:
     toolbar:

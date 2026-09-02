@@ -4,20 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "ecd4f3166cae2d8f",
+        "id": "b06c8f8120934dfb",
         "type": "tabs",
         "children": [
           {
-            "id": "e7fa71b15c950f18",
+            "id": "1c16febed8943517",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "content/프로젝트 6 - 저편 하늘을 향해/등장인물/노랑.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "노랑"
+            }
+          },
+          {
+            "id": "c3a285f454253e8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,14 +214,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7fa71b15c950f18",
+  "active": "c3a285f454253e8c",
   "lastOpenFiles": [
+    "content/프로젝트 6 - 저편 하늘을 향해/등장인물/노랑.md",
+    "conflict-files-obsidian-git.md",
+    "content/프로젝트 2 - Time Travelers/등장인물/미상.md",
+    "content/프로젝트 2 - Time Travelers/등장인물/N (프로젝트2).md",
+    "content/프로젝트 18 - 경계의 틈에 끼어버린 너와 나/등장인물/미야 (프로젝트 18).md",
     "content/프로젝트 2 - Time Travelers/시나리오/요약.md",
     "content/프로젝트 2 - Time Travelers/등장인물/아리사.md",
     "content/프로젝트 18 - 경계의 틈에 끼어버린 너와 나/세계관/세계선의 정산.md",
     "content/프로젝트 18 - 경계의 틈에 끼어버린 너와 나/세계관/세계선.md",
     "content/프로젝트 2 - Time Travelers/세계관/바르비탈.md",
-    "content/프로젝트 2 - Time Travelers/등장인물/미상.md",
     "content/프로젝트 2 - Time Travelers/등장인물/N, 나래 (프로젝트 2).md",
     "content/프로젝트 0 - 공통/세계관/Liminal Interface.md",
     "content/프로젝트 2 - Time Travelers/등장인물/혜울 (프로젝트 2).md",
@@ -220,10 +243,6 @@
     "content/프로젝트 18 - 경계의 틈에 끼어버린 너와 나/세계관/메이드니멀.md",
     "content/프로젝트 18 - 경계의 틈에 끼어버린 너와 나/세계관/신문기사.md",
     "content/프로젝트 18 - 경계의 틈에 끼어버린 너와 나/세계관/쓰레채널.md",
-    "content/프로젝트 18 - 경계의 틈에 끼어버린 너와 나/등장인물/N (프로젝트 18).md",
-    "content/프로젝트 18 - 경계의 틈에 끼어버린 너와 나/등장인물/R (프로젝트 18).md",
-    "content/프로젝트 18 - 경계의 틈에 끼어버린 너와 나/세계관/의문의 잔해.md",
-    "content/프로젝트 18 - 경계의 틈에 끼어버린 너와 나/등장인물/M, 미야 (프로젝트 18).md",
     "content/프로젝트 6 - 저편 하늘을 향해/세계관",
     "content/프로젝트 6 - 저편 하늘을 향해/등장인물",
     "content/프로젝트 6 - 저편 하늘을 향해",
