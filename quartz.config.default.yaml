@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: wiki.teamhc.net
+  baseUrl: quartz.jzhao.xyz
   ignorePatterns:
     - private
     - templates
