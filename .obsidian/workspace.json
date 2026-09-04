@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b06c8f8120934dfb",
+        "id": "f0b31524fcfa140e",
         "type": "tabs",
         "children": [
           {
-            "id": "1c16febed8943517",
+            "id": "4e971b70dbd8106c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/프로젝트 18 - 경계의 틈에 끼어버린 너와 나/등장인물/진희.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "진희"
+              "title": "새 탭"
             }
           }
         ]
@@ -199,7 +195,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1c16febed8943517",
+  "active": "4e971b70dbd8106c",
   "lastOpenFiles": [
     "content/프로젝트 18 - 경계의 틈에 끼어버린 너와 나/등장인물/유영.md",
     "content/프로젝트 18 - 경계의 틈에 끼어버린 너와 나/등장인물/미야 (프로젝트 18).md",
